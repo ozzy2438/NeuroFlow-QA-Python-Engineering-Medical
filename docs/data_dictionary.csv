@@ -1,0 +1,14 @@
+column,meaning,example
+subject_id,Synthetic participant identifier,sub-001
+age,Synthetic age in years,44
+sex,Synthetic sex label,F
+site,Synthetic imaging center,Sydney-Neuro-A
+diagnosis_group,"Synthetic study group label, not a real diagnosis",control
+t1_snr,Signal-to-noise style score for anatomical MRI,1.46
+brain_volume_ml,Approximate synthetic brain-like volume in millilitres,312.7
+fmri_tsnr,Temporal stability score for fMRI time-series,4.38
+dvars_proxy,Simple frame-to-frame fMRI variation metric,0.1274
+motion_mm,Synthetic head motion value in millimetres,0.486
+qc_score,Overall quality score from 0 to 100,70
+qc_status,pass or flag,flag
+qc_fail_reasons,Why a scan was flagged,high_motion

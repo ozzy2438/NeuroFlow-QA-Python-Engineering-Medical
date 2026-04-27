@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large synthetic imaging data - keep in S3 or release artifact, not GitHub
+data/raw_synthetic/
+*.nii.gz
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Optional generated archives
+*.zip

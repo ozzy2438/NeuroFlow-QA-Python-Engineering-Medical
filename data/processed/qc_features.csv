@@ -1,0 +1,13 @@
+subject_id,age,sex,site,diagnosis_group,t1_snr,brain_volume_ml,fmri_tsnr,dvars_proxy,motion_mm,qc_status,qc_fail_reasons
+sub-001,26,M,Melbourne-Neuro-B,epilepsy_followup,1.504,304.79,4.654,0.1277,0.265,flag,low_t1_snr
+sub-002,44,F,Brisbane-Neuro-C,control,1.458,312.44,4.368,0.1275,0.238,flag,low_t1_snr
+sub-003,47,M,Brisbane-Neuro-C,mild_cognitive_symptoms,1.46,312.7,4.386,0.1274,0.093,flag,low_t1_snr
+sub-004,65,F,Sydney-Neuro-A,control,1.461,312.66,3.823,0.1283,0.486,flag,"low_t1_snr,high_motion_metadata"
+sub-005,70,M,Melbourne-Neuro-B,control,1.46,312.96,4.371,0.1274,0.332,flag,low_t1_snr
+sub-006,32,F,Sydney-Neuro-A,epilepsy_followup,1.502,304.46,4.664,0.1275,0.085,flag,low_t1_snr
+sub-007,56,M,Melbourne-Neuro-B,epilepsy_followup,1.461,312.54,4.368,0.1277,0.062,flag,low_t1_snr
+sub-008,33,F,Brisbane-Neuro-C,control,1.46,312.85,4.372,0.1277,0.216,flag,low_t1_snr
+sub-009,26,F,Melbourne-Neuro-B,mild_cognitive_symptoms,1.46,312.51,3.826,0.1283,0.456,flag,"low_t1_snr,high_motion_metadata"
+sub-010,53,F,Melbourne-Neuro-B,epilepsy_followup,1.462,312.85,4.376,0.1275,0.219,flag,low_t1_snr
+sub-011,51,F,Brisbane-Neuro-C,control,1.46,312.62,4.357,0.1276,0.276,flag,low_t1_snr
+sub-012,66,F,Sydney-Neuro-A,epilepsy_followup,1.459,312.42,4.367,0.1276,0.208,flag,low_t1_snr
